@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="350">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(258,183)" font-size="36" style="fill:rgb(214, 39, 40)">Agent</text>
+<text transform="translate(347,348) rotate(-90)" font-size="31" style="fill:rgb(148, 103, 189)">Policy</text>
+<text transform="translate(325,41)" font-size="29" style="fill:rgb(140, 86, 75)">Exploration</text>
+<text transform="translate(7,99)" font-size="29" style="fill:rgb(127, 127, 127)">Representation</text>
+<text transform="translate(96,203)" font-size="27" style="fill:rgb(44, 160, 44)">Efficient</text>
+<text transform="translate(199,273)" font-size="27" style="fill:rgb(227, 119, 194)">Reward</text>
+<text transform="translate(502,250)" font-size="25" style="fill:rgb(31, 119, 180)">Meta</text>
+<text transform="translate(58,306)" font-size="25" style="fill:rgb(188, 189, 34)">Offline</text>
+<text transform="translate(478,132)" font-size="22" style="fill:rgb(44, 160, 44)">Safe</text>
+<text transform="translate(199,226)" font-size="22" style="fill:rgb(140, 86, 75)">Control</text>
+<text transform="translate(481,217)" font-size="22" style="fill:rgb(31, 119, 180)">Episodic</text>
+<text transform="translate(395,65)" font-size="22" style="fill:rgb(214, 39, 40)">Bound</text>
+<text transform="translate(563,113)" font-size="22" style="fill:rgb(23, 190, 207)">Sample</text>
+<text transform="translate(365,240)" font-size="22" style="fill:rgb(214, 39, 40)">Complexity</text>
+<text transform="translate(44,18)" font-size="22" style="fill:rgb(214, 39, 40)">Inverse</text>
+<text transform="translate(252,154) rotate(-90)" font-size="22" style="fill:rgb(44, 160, 44)">Free</text>
+<text transform="translate(532,280)" font-size="22" style="fill:rgb(44, 160, 44)">Batch</text>
+<text transform="translate(13,55)" font-size="22" style="fill:rgb(188, 189, 34)">Function Approximation</text>
+<text transform="translate(386,294)" font-size="19" style="fill:rgb(140, 86, 75)">Robust</text>
+<text transform="translate(461,325)" font-size="19" style="fill:rgb(227, 119, 194)">Self</text>
+<text transform="translate(5,267)" font-size="19" style="fill:rgb(140, 86, 75)">Continuous</text>
+<text transform="translate(114,168)" font-size="19" style="fill:rgb(214, 39, 40)">Graph</text>
+<text transform="translate(280,71)" font-size="19" style="fill:rgb(255, 127, 14)">Decoupling</text>
+<text transform="translate(131,286)" font-size="19" style="fill:rgb(188, 189, 34)">Value</text>
+<text transform="translate(255,136)" font-size="19" style="fill:rgb(188, 189, 34)">Generalization</text>
+<text transform="translate(664,135) rotate(-90)" font-size="19" style="fill:rgb(255, 127, 14)">Conditioned</text>
+<text transform="translate(88,328)" font-size="19" style="fill:rgb(140, 86, 75)">Dynamic</text>
+<text transform="translate(450,266)" font-size="19" style="fill:rgb(227, 119, 194)">MDP</text>
+<text transform="translate(246,92)" font-size="19" style="fill:rgb(31, 119, 180)">Demonstration</text>
+<text transform="translate(500,180)" font-size="19" style="fill:rgb(255, 127, 14)">Constrained</text>
+<text transform="translate(607,264)" font-size="19" style="fill:rgb(23, 190, 207)">Space</text>
+<text transform="translate(599,310)" font-size="19" style="fill:rgb(227, 119, 194)">Critic</text>
+<text transform="translate(369,172)" font-size="19" style="fill:rgb(214, 39, 40)">Feature</text>
+<text transform="translate(88,116)" font-size="19" style="fill:rgb(23, 190, 207)">Optimal</text>
+<text transform="translate(50,139)" font-size="19" style="fill:rgb(23, 190, 207)">Actor</text>
+<text transform="translate(516,25)" font-size="19" style="fill:rgb(140, 86, 75)">Uncertainty</text>
+<text transform="translate(192,24)" font-size="16" style="fill:rgb(44, 160, 44)">Advantage</text>
+<text transform="translate(49,230)" font-size="16" style="fill:rgb(148, 103, 189)">Randomized</text>
+<text transform="translate(358,203)" font-size="16" style="fill:rgb(188, 189, 34)">Empowerment</text>
+<text transform="translate(285,207)" font-size="16" style="fill:rgb(23, 190, 207)">Driven</text>
+<text transform="translate(322,150)" font-size="16" style="fill:rgb(227, 119, 194)">Guarantee</text>
+<text transform="translate(177,308)" font-size="16" style="fill:rgb(23, 190, 207)">Optimisation</text>
+<text transform="translate(692,266) rotate(-90)" font-size="16" style="fill:rgb(31, 119, 180)">Perspective</text>
+<text transform="translate(181,338)" font-size="16" style="fill:rgb(140, 86, 75)">Performance</text>
+<text transform="translate(392,106)" font-size="16" style="fill:rgb(23, 190, 207)">Context</text>
+<text transform="translate(105,142)" font-size="16" style="fill:rgb(31, 119, 180)">Evaluation</text>
+<text transform="translate(471,297)" font-size="16" style="fill:rgb(188, 189, 34)">Corruption</text>
+<text transform="translate(539,38)" font-size="16" style="fill:rgb(214, 39, 40)">time</text>
+<text transform="translate(153,239)" font-size="16" style="fill:rgb(127, 127, 127)">Lower</text>
+<text transform="translate(620,326)" font-size="16" style="fill:rgb(44, 160, 44)">Regret</text>
+<text transform="translate(34,344)" font-size="16" style="fill:rgb(31, 119, 180)">Goal</text>
+<text transform="translate(514,342)" font-size="16" style="fill:rgb(23, 190, 207)">Cooperative</text>
+<text transform="translate(5,308)" font-size="16" style="fill:rgb(214, 39, 40)">Block</text>
+<text transform="translate(68,167)" font-size="16" style="fill:rgb(148, 103, 189)">Risk</text>
+<text transform="translate(636,286)" font-size="16" style="fill:rgb(214, 39, 40)">State</text>
+<text transform="translate(264,105)" font-size="16" style="fill:rgb(255, 127, 14)">Unsupervised</text>
+<text transform="translate(523,90)" font-size="16" style="fill:rgb(44, 160, 44)">Credit</text>
+<text transform="translate(689,137) rotate(-90)" font-size="16" style="fill:rgb(255, 127, 14)">Assignment</text>
+<text transform="translate(561,234)" font-size="16" style="fill:rgb(140, 86, 75)">Linear</text>
+<text transform="translate(479,164)" font-size="16" style="fill:rgb(23, 190, 207)">RL</text>
+<text transform="translate(483,54)" font-size="16" style="fill:rgb(44, 160, 44)">Sparse</text>
+<text transform="translate(523,194)" font-size="16" style="fill:rgb(31, 119, 180)">Information</text>
+<text transform="translate(525,160)" font-size="16" style="fill:rgb(227, 119, 194)">Structured</text>
+<text transform="translate(281,29)" font-size="16" style="fill:rgb(148, 103, 189)">Near</text>
+<text transform="translate(671,227) rotate(-90)" font-size="16" style="fill:rgb(44, 160, 44)">Precision</text>
+<text transform="translate(464,189) rotate(-90)" font-size="16" style="fill:rgb(214, 39, 40)">Analysis</text>
+<text transform="translate(29,73)" font-size="16" style="fill:rgb(255, 127, 14)">Sampling</text>
+<text transform="translate(413,14)" font-size="16" style="fill:rgb(227, 119, 194)">Policies</text>
+<text transform="translate(365,262)" font-size="16" style="fill:rgb(31, 119, 180)">Play</text>
+<text transform="translate(24,210) rotate(-90)" font-size="16" style="fill:rgb(140, 86, 75)">Successor</text>
+<text transform="translate(619,89) rotate(-90)" font-size="12" style="fill:rgb(127, 127, 127)">Pessimism</text>
+<text transform="translate(177,115)" font-size="12" style="fill:rgb(255, 127, 14)">Optimism</text>
+<text transform="translate(420,76)" font-size="12" style="fill:rgb(227, 119, 194)">Intervention</text>
+<text transform="translate(401,86)" font-size="12" style="fill:rgb(44, 160, 44)">Parallel</text>
+<text transform="translate(37,180) rotate(-90)" font-size="12" style="fill:rgb(23, 190, 207)">Droplet</text>
+<text transform="translate(229,255) rotate(-90)" font-size="12" style="fill:rgb(214, 39, 40)">MEDA</text>
+<text transform="translate(643,246) rotate(-90)" font-size="12" style="fill:rgb(31, 119, 180)">Biochips</text>
+<text transform="translate(29,279)" font-size="12" style="fill:rgb(127, 127, 127)">Entity</text>
+<text transform="translate(217,186) rotate(-90)" font-size="12" style="fill:rgb(23, 190, 207)">wise</text>
+<text transform="translate(371,341)" font-size="12" style="fill:rgb(148, 103, 189)">Factorization</text>
+<text transform="translate(530,134)" font-size="12" style="fill:rgb(255, 127, 14)">MetaCURE</text>
+<text transform="translate(571,68)" font-size="12" style="fill:rgb(148, 103, 189)">CRPO</text>
+<text transform="translate(311,302) rotate(-90)" font-size="12" style="fill:rgb(23, 190, 207)">Convergence</text>
+<text transform="translate(522,312)" font-size="12" style="fill:rgb(23, 190, 207)">Spectral</text>
+<text transform="translate(383,217)" font-size="12" style="fill:rgb(31, 119, 180)">Normalisation</text>
+<text transform="translate(348,278)" font-size="12" style="fill:rgb(140, 86, 75)">Least</text>
+<text transform="translate(405,321)" font-size="12" style="fill:rgb(148, 103, 189)">Squares</text>
+<text transform="translate(117,28)" font-size="12" style="fill:rgb(214, 39, 40)">Iteration</text>
+<text transform="translate(120,337)" font-size="12" style="fill:rgb(31, 119, 180)">Provable</text>
+<text transform="translate(131,263)" font-size="12" style="fill:rgb(148, 103, 189)">Paced</text>
+<text transform="translate(215,286)" font-size="12" style="fill:rgb(188, 189, 34)">Contextual</text>
+<text transform="translate(453,276)" font-size="12" style="fill:rgb(140, 86, 75)">Improved</text>
+<text transform="translate(80,239)" font-size="12" style="fill:rgb(188, 189, 34)">Weighting</text>
+<text transform="translate(3,237)" font-size="12" style="fill:rgb(127, 127, 127)">SAINT</text>
+<text transform="translate(39,118)" font-size="12" style="fill:rgb(227, 119, 194)">ACC</text>
+<text transform="translate(34,29)" font-size="12" style="fill:rgb(148, 103, 189)">Safety</text>
+<text transform="translate(191,65)" font-size="12" style="fill:rgb(214, 39, 40)">Intelligent</text>
+<text transform="translate(493,102)" font-size="12" style="fill:rgb(188, 189, 34)">Adaptive</text>
+<text transform="translate(630,345)" font-size="12" style="fill:rgb(140, 86, 75)">Cruise</text>
+<text transform="translate(232,238)" font-size="12" style="fill:rgb(140, 86, 75)">Autonomous</text>
+<text transform="translate(135,212)" font-size="12" style="fill:rgb(255, 127, 14)">Vehicles</text>
+<text transform="translate(18,322)" font-size="12" style="fill:rgb(255, 127, 14)">Laplacian</text>
+<text transform="translate(374,116)" font-size="12" style="fill:rgb(255, 127, 14)">Generalized</text>
+<text transform="translate(378,184)" font-size="12" style="fill:rgb(44, 160, 44)">Drawing</text>
+<text transform="translate(545,322)" font-size="12" style="fill:rgb(44, 160, 44)">Clipped</text>
+<text transform="translate(653,191) rotate(-90)" font-size="12" style="fill:rgb(127, 127, 127)">Pseudo</text>
+<text transform="translate(38,189)" font-size="12" style="fill:rgb(23, 190, 207)">Gradient</text>
+<text transform="translate(400,304)" font-size="12" style="fill:rgb(140, 86, 75)">Learn</text>
+<text transform="translate(228,318)" font-size="12" style="fill:rgb(188, 189, 34)">Multiagent</text>
+<text transform="translate(590,129)" font-size="12" style="fill:rgb(214, 39, 40)">Imagined</text>
+<text transform="translate(339,10)" font-size="12" style="fill:rgb(23, 190, 207)">Subgoals</text>
+<text transform="translate(19,288)" font-size="12" style="fill:rgb(148, 103, 189)">Coach</text>
+<text transform="translate(315,226)" font-size="12" style="fill:rgb(31, 119, 180)">Player</text>
+<text transform="translate(49,203)" font-size="12" style="fill:rgb(214, 39, 40)">Team</text>
+<text transform="translate(110,69)" font-size="12" style="fill:rgb(31, 119, 180)">Composition</text>
+<text transform="translate(258,10)" font-size="12" style="fill:rgb(127, 127, 127)">Adversarial</text>
+<text transform="translate(139,35)" font-size="10" style="fill:rgb(127, 127, 127)">Application</text>
+<text transform="translate(233,345)" font-size="10" style="fill:rgb(23, 190, 207)">Identification</text>
+<text transform="translate(554,53)" font-size="10" style="fill:rgb(227, 119, 194)">Sensitive</text>
+<text transform="translate(643,8)" font-size="10" style="fill:rgb(140, 86, 75)">Debiasing</text>
+<text transform="translate(550,141)" font-size="10" style="fill:rgb(227, 119, 194)">Generalizable</text>
+<text transform="translate(300,53)" font-size="10" style="fill:rgb(23, 190, 207)">Memory</text>
+<text transform="translate(367,320)" font-size="10" style="fill:rgb(23, 190, 207)">Beyond</text>
+<text transform="translate(265,145)" font-size="10" style="fill:rgb(44, 160, 44)">Linearity</text>
+<text transform="translate(464,87)" font-size="10" style="fill:rgb(148, 103, 189)">Shot</text>
+<text transform="translate(392,273)" font-size="10" style="fill:rgb(140, 86, 75)">Imitation</text>
+<text transform="translate(98,344)" font-size="10" style="fill:rgb(140, 86, 75)">Variational</text>
+<text transform="translate(524,229) rotate(-90)" font-size="10" style="fill:rgb(188, 189, 34)">PC</text>
+<text transform="translate(598,286)" font-size="10" style="fill:rgb(255, 127, 14)">MLP</text>
+<text transform="translate(115,176)" font-size="10" style="fill:rgb(255, 127, 14)">Cover</text>
+<text transform="translate(585,217)" font-size="10" style="fill:rgb(127, 127, 127)">Guided</text>
+<text transform="translate(312,116)" font-size="10" style="fill:rgb(255, 127, 14)">Actionable</text>
+<text transform="translate(41,149)" font-size="10" style="fill:rgb(148, 103, 189)">Robotic</text>
+<text transform="translate(510,68)" font-size="10" style="fill:rgb(148, 103, 189)">Skills</text>
+<text transform="translate(297,326)" font-size="10" style="fill:rgb(31, 119, 180)">Cost</text>
+<text transform="translate(42,241)" font-size="10" style="fill:rgb(44, 160, 44)">Markov</text>
+<text transform="translate(477,141)" font-size="10" style="fill:rgb(214, 39, 40)">Decision</text>
+<text transform="translate(42,212)" font-size="10" style="fill:rgb(44, 160, 44)">Processes</text>
+<text transform="translate(492,257)" font-size="10" style="fill:rgb(255, 127, 14)">Prototypical</text>
+<text transform="translate(113,124)" font-size="10" style="fill:rgb(44, 160, 44)">Routines</text>
+<text transform="translate(67,250)" font-size="10" style="fill:rgb(140, 86, 75)">Effective</text>
+<text transform="translate(134,249)" font-size="10" style="fill:rgb(255, 127, 14)">Counterfactual</text>
+<text transform="translate(171,160)" font-size="10" style="fill:rgb(188, 189, 34)">UneVEn</text>
+<text transform="translate(230,252)" font-size="10" style="fill:rgb(23, 190, 207)">Universal</text>
+<text transform="translate(71,278)" font-size="10" style="fill:rgb(127, 127, 127)">Scalable</text>
+<text transform="translate(570,242)" font-size="10" style="fill:rgb(148, 103, 189)">Melting</text>
+<text transform="translate(391,19)" font-size="10" style="fill:rgb(227, 119, 194)">Pot</text>
+<text transform="translate(279,157)" font-size="10" style="fill:rgb(31, 119, 180)">Recomposing</text>
+<text transform="translate(254,112)" font-size="10" style="fill:rgb(44, 160, 44)">Building</text>
+<text transform="translate(693,346) rotate(-90)" font-size="10" style="fill:rgb(23, 190, 207)">Hypernetworks</text>
+<text transform="translate(641,96) rotate(-90)" font-size="10" style="fill:rgb(227, 119, 194)">Logarithmic</text>
+<text transform="translate(8,76) rotate(-90)" font-size="10" style="fill:rgb(140, 86, 75)">Exponential</text>
+<text transform="translate(8,188) rotate(-90)" font-size="10" style="fill:rgb(31, 119, 180)">Exponentially</text>
+<text transform="translate(198,126)" font-size="10" style="fill:rgb(140, 86, 75)">Harder</text>
+<text transform="translate(470,111)" font-size="10" style="fill:rgb(140, 86, 75)">Online</text>
+<text transform="translate(404,252)" font-size="10" style="fill:rgb(227, 119, 194)">Latent</text>
+<text transform="translate(42,174)" font-size="10" style="fill:rgb(227, 119, 194)">Collocation</text>
+<text transform="translate(178,169)" font-size="10" style="fill:rgb(227, 119, 194)">RRL</text>
+<text transform="translate(270,37)" font-size="10" style="fill:rgb(127, 127, 127)">Resnet</text>
+<text transform="translate(408,133)" font-size="10" style="fill:rgb(148, 103, 189)">Fisher</text>
+<text transform="translate(355,347) rotate(-90)" font-size="10" style="fill:rgb(255, 127, 14)">Divergence</text>
+<text transform="translate(437,304)" font-size="9" style="fill:rgb(255, 127, 14)">Regularization</text>
+<text transform="translate(413,149)" font-size="9" style="fill:rgb(31, 119, 180)">Shortest</text>
+<text transform="translate(170,306) rotate(-90)" font-size="9" style="fill:rgb(127, 127, 127)">Path</text>
+<text transform="translate(472,343)" font-size="9" style="fill:rgb(44, 160, 44)">Capacity</text>
+<text transform="translate(135,9)" font-size="9" style="fill:rgb(127, 127, 127)">Theoretic</text>
+<text transform="translate(325,268) rotate(-90)" font-size="9" style="fill:rgb(31, 119, 180)">Measure</text>
+<text transform="translate(530,8)" font-size="9" style="fill:rgb(188, 189, 34)">Emphatic</text>
+<text transform="translate(471,195)" font-size="9" style="fill:rgb(255, 127, 14)">Rademacher</text>
+<text transform="translate(574,251)" font-size="9" style="fill:rgb(31, 119, 180)">World</text>
+<text transform="translate(78,32)" font-size="9" style="fill:rgb(140, 86, 75)">Belief</text>
+<text transform="translate(594,318)" font-size="9" style="fill:rgb(148, 103, 189)">POMDP</text>
+<text transform="translate(185,319)" font-size="9" style="fill:rgb(31, 119, 180)">Provably</text>
+<text transform="translate(211,34)" font-size="9" style="fill:rgb(44, 160, 44)">Discounted</text>
+<text transform="translate(243,200)" font-size="9" style="fill:rgb(255, 127, 14)">Mapping</text>
+<text transform="translate(153,176)" font-size="9" style="fill:rgb(255, 127, 14)">Stationary</text>
+<text transform="translate(628,91) rotate(-90)" font-size="9" style="fill:rgb(127, 127, 127)">Approximate</text>
+<text transform="translate(227,178)" font-size="9" style="fill:rgb(127, 127, 127)">Hyper</text>
+<text transform="translate(161,272)" font-size="9" style="fill:rgb(140, 86, 75)">REPAINT</text>
+<text transform="translate(148,221)" font-size="9" style="fill:rgb(44, 160, 44)">Knowledge</text>
+<text transform="translate(107,149)" font-size="9" style="fill:rgb(148, 103, 189)">Transfer</text>
+<text transform="translate(13,248)" font-size="9" style="fill:rgb(227, 119, 194)">Confidence</text>
+<text transform="translate(500,88)" font-size="9" style="fill:rgb(23, 190, 207)">Low</text>
+<text transform="translate(10,220)" font-size="9" style="fill:rgb(255, 127, 14)">Running</text>
+<text transform="translate(26,127)" font-size="9" style="fill:rgb(214, 39, 40)">Soft</text>
+<text transform="translate(16,11)" font-size="9" style="fill:rgb(188, 189, 34)">Half</text>
+<text transform="translate(465,175)" font-size="9" style="fill:rgb(214, 39, 40)">Kernel</text>
+<text transform="translate(367,306)" font-size="9" style="fill:rgb(188, 189, 34)">Finite</text>
+<text transform="translate(441,247)" font-size="9" style="fill:rgb(214, 39, 40)">SUNRISE</text>
+<text transform="translate(628,224) rotate(-90)" font-size="9" style="fill:rgb(188, 189, 34)">Simple</text>
+<text transform="translate(226,325)" font-size="9" style="fill:rgb(214, 39, 40)">Unified</text>
+<text transform="translate(182,346)" font-size="9" style="fill:rgb(44, 160, 44)">Ensemble</text>
+<text transform="translate(542,121)" font-size="9" style="fill:rgb(227, 119, 194)">Posterior</text>
+<text transform="translate(508,322)" font-size="9" style="fill:rgb(31, 119, 180)">Scaling</text>
+<text transform="translate(479,148)" font-size="9" style="fill:rgb(188, 189, 34)">Selective</text>
+<text transform="translate(333,215)" font-size="9" style="fill:rgb(148, 103, 189)">Parameter</text>
+<text transform="translate(584,201)" font-size="9" style="fill:rgb(188, 189, 34)">Sharing</text>
+<text transform="translate(418,331)" font-size="9" style="fill:rgb(255, 127, 14)">FOP</text>
+<text transform="translate(671,68) rotate(-90)" font-size="9" style="fill:rgb(148, 103, 189)">Factorizing</text>
+<text transform="translate(650,243)" font-size="9" style="fill:rgb(23, 190, 207)">Joint</text>
+</svg>
